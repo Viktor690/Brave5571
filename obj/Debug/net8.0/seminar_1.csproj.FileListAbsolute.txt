@@ -12,3 +12,4 @@ C:\Users\V\GeekBrains\C#\seminar_1\obj\Debug\net8.0\refint\seminar_1.dll
 C:\Users\V\GeekBrains\C#\seminar_1\obj\Debug\net8.0\seminar_1.pdb
 C:\Users\V\GeekBrains\C#\seminar_1\obj\Debug\net8.0\seminar_1.genruntimeconfig.cache
 C:\Users\V\GeekBrains\C#\seminar_1\obj\Debug\net8.0\ref\seminar_1.dll
+C:\Users\V\GeekBrains\C#\seminar_1\obj\Debug\net8.0\seminar_1.sourcelink.json
